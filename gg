@@ -1,0 +1,4 @@
+def say_cheers(recipient):
+    return 'Cheers, from {}!'.format(recipient)
+
+say_cheers('Germano Costa')
